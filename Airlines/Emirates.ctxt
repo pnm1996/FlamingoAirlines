@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ delay()
+comment1.params=
+comment1.target=Emirates()
+comment2.params=a\ b\ c\ d
+comment2.target=void\ setFlightInfo(java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=void\ EmiratesMenu()
+comment4.params=i
+comment4.target=void\ details(int)
+numComments=5
